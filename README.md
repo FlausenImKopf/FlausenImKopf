@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @FlausenImKopf
-- 👀 Just taking a look around github. I'm an absolute beginner.
-- 🌱 Currently learning the very basics of python 3
 
 
 <!---
