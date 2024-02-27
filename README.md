@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @FlausenImKopf
+- 👋 Hi, I’m @FlausenImKopf a.k.a. Johanna Meichelböck
+- excited about learning how to create beautiful and functional web applications
 
 
 <!---
