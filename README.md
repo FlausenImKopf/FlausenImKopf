@@ -6,7 +6,7 @@ I'm an elementary–school-teacher-turned-software-engineer.
 - Excited about learning HTML, CSS, JS, Vue.js and more to be able to build beautiful, functional and inclusive websites
 - I'm looking forward to starting as a junior web developer in Augsburg, Germany after I complete the bootcamp. Preferably in an office, so I can learn faster and have more of an impact on the projects I'm going to be contributing to.
 
-
+Let's connect on LinkedIn: https://www.linkedin.com/in/johanna-meichelboeck/
 
 <!---
 FlausenImKopf/FlausenImKopf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
