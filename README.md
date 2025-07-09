@@ -2,9 +2,9 @@ Hi, I’m Hanna 👋
 
 I'm an elementary–school-teacher-turned-software-engineer.
 
-- Just graduated from a bootcamp by [@CodingBootcampsEurope](https://github.com/coding-bootcamps-eu)
-- Excited about learning HTML, CSS, JS, Vue.js and more to be able to build beautiful, functional and inclusive websites
-- I'm looking forward to starting as a junior developer in Augsburg, Germany after I complete the bootcamp. Preferably in an office or hybrid, so I can learn faster and have more of an impact on the projects I'm going to be contributing to.
+- taught myself some python a while back and got fascinated by microcontrollers
+- did a bootcamp by [@CodingBootcampsEurope](https://github.com/coding-bootcamps-eu) and learned to love web dev and the frontend
+- now about to study technical computer science in Augsburg
 
 Let's connect on LinkedIn: https://www.linkedin.com/in/johanna-meichelboeck/
 
