@@ -1,6 +1,6 @@
 Hi, I’m Hanna 👋 
 
-elementary–school-teacher-turned-software-engineer currently studying technical computer science.
+currently studying technical computer science.
 
 
 <!---
